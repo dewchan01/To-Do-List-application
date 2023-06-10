@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## JSON Server
 
-Run `json-server` for recording data inside [db.json](db.json). The data will be automatically updated upon new changes are made in UI side.
+Run `json-server` for storing data inside [db.json](db.json). The data will be automatically updated upon new changes are made in UI side.
 
 ## Development server
 
